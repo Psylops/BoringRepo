@@ -1,1 +1,3 @@
-console.info("it works!")
+for (var i = 1; i>0;++i ){
+    console.log("it works!")
+}
