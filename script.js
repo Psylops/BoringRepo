@@ -1,3 +1,3 @@
- function onclick() {
+function ranfunc() {
     console.log("pong!")
 }
