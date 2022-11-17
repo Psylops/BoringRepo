@@ -1,3 +1,3 @@
 function ranfunc() {
-    console.log("pong!")
+    document.getElementById("Title").innerHTML = "It works!+"
 }
