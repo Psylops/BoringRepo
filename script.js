@@ -1,3 +1,3 @@
 function ranfunc() {
-    document.getElementById("Title").innerHTML = "It works!+"
+    document.getElementById("Title").innerHTML = "It works!"
 }
